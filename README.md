@@ -5,7 +5,7 @@
 ### 以下模组均不在原版中添加一些奇怪的物品，都是优化或者实用类模组.
 
 #### **CurseForge Mod:**
-1.Fabric API
+1.Fabric API\n
 2.Mod Menu
 3.WorldEdit
 4.Dynamic FPS
