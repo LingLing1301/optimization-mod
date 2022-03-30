@@ -47,6 +47,7 @@
 4. PurpurClient
 5. ServerCore
 6. Reese's Sodium Options
+7. FabricSkyboxes
 
 #### **MC百科(www.mcmod.cn) Mod:**
 1. Carpet
@@ -56,4 +57,7 @@
 
 ### The update speed of different platforms is different. The fastest update platform is adopted here.
 ### 不同平台的更新速度不同，这里采用最快更新的平台.
+
+### FabricSkyboxes custom sky, if you want to convert optifine format to this, use: https://github.com/supsm/MCPPPP
+### FabricSkyboxes自定义天空,如果要把optifine格式的转换成这个,使用: https://github.com/supsm/MCPPPP
 
