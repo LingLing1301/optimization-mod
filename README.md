@@ -39,6 +39,7 @@
 32. Indium
 33. Continuity
 34. Enhanced Block Entities
+35. DashLoader
 
 #### **Modrinth Mod:**
 1. HealthCare
