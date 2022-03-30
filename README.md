@@ -38,6 +38,7 @@
 31. ToolTipFix
 32. Indium
 33. Continuity
+34. Enhanced Block Entities
 
 #### **Modrinth Mod:**
 1. HealthCare
@@ -55,7 +56,4 @@
 
 ### The update speed of different platforms is different. The fastest update platform is adopted here.
 ### 不同平台的更新速度不同，这里采用最快更新的平台.
-
-### Since OptiFabric does not update minecraft version 1.18.2, Sodium is used here
-### 因为OptiFabric不更新1.18.2版本minecraft，所以这里使用了Sodium
 
