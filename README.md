@@ -40,6 +40,7 @@
 33. Continuity
 34. Enhanced Block Entities
 35. DashLoader
+36. TieFix
 
 #### **Modrinth Mod:**
 1. HealthCare
