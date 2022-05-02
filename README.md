@@ -41,6 +41,7 @@
 34. Enhanced Block Entities
 35. DashLoader
 36. TieFix
+37. Ksyxis
 
 #### **Modrinth Mod:**
 1. HealthCare
