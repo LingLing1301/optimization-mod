@@ -52,12 +52,10 @@
 5. ServerCore
 6. Reese's Sodium Options
 7. FabricSkyboxes
+8. Concurrent Chunk Management Engine
 
 #### **MC百科(www.mcmod.cn) Mod:**
 1. Carpet
-
-#### **Github Mod:**
-1. C2ME-fabric
 
 ### The update speed of different platforms is different. The fastest update platform is adopted here.
 ### 不同平台的更新速度不同，这里采用最快更新的平台.
