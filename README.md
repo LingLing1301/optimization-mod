@@ -22,8 +22,8 @@
 14. MinecraftCapes Mod
 15. Skin Layers 3D
 16. Sodium
-17. Iris Shaders
-18. Sodium Extra
+17. Sodium Extra
+18. Iris Shaders
 19. Cloth Config API
 20. balm
 21. Client Tweaks
@@ -43,19 +43,17 @@
 35. DashLoader
 36. TieFix
 37. Ksyxis
+38. Carpet
 
 #### **Modrinth Mod:**
 1. HealthCare
 2. Better Beds
 3. Visual Overhaul
-4. PurpurClient
+4. Reese's Sodium Options
 5. ServerCore
-6. Reese's Sodium Options
-7. FabricSkyboxes
+6. FabricSkyboxes
+7. PurpurClient
 8. Concurrent Chunk Management Engine
-
-#### **MC百科(www.mcmod.cn) Mod:**
-1. Carpet
 
 ### The update speed of different platforms is different. The fastest update platform is adopted here.
 ### 不同平台的更新速度不同，这里采用最快更新的平台.
