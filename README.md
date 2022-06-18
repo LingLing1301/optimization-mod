@@ -14,7 +14,7 @@
 6. Mouse Wheelie
 7. FerriteCore
 8. Cull Leaves
-9. Entity Culling
+9. Entity Culling Fabric
 10. starlight
 11. NoMoreGlowingPots
 12. Smooth Boot
@@ -23,38 +23,39 @@
 15. Skin Layers 3D
 16. Sodium
 17. Sodium Extra
-18. Iris Shaders
-19. Cloth Config API
-20. balm
-21. Client Tweaks
-22. Clumps
-23. Krypton
-24. LazyDFU
-25. Chunky Pregenerator
-26. ForgetMeChunk
-27. Lithium
-28. LambDynamicLights
-29. Very Many Players
-30. Not Enough Crashes
-31. ToolTipFix
-32. Indium
-33. Continuity
-34. Enhanced Block Entities
-35. DashLoader
-36. TieFix
-37. Ksyxis
-38. Carpet
-39. Cull Less Leaves
+18. Reese's Sodium Options
+19. Iris Shaders
+20. Cloth Config API
+21. balm
+22. Client Tweaks
+23. Clumps
+24. Krypton
+25. LazyDFU
+26. Chunky Pregenerator
+27. ForgetMeChunk
+28. Lithium
+29. LambDynamicLights
+30. Very Many Players
+31. Not Enough Crashes
+32. ToolTipFix
+33. Indium
+34. Continuity
+35. Enhanced Block Entities
+36. DashLoader
+37. TieFix
+38. Ksyxis
+39. Carpet
+40. Cull Less Leaves
+41. HealthCare
+42. Better Beds
+43. Visual Overhaul
+44. ServerCore
+45. CIT Resewn
 
 #### **Modrinth Mod:**
-1. HealthCare
-2. Better Beds
-3. Visual Overhaul
-4. Reese's Sodium Options
-5. ServerCore
-6. FabricSkyboxes
-7. PurpurClient
-8. Concurrent Chunk Management Engine
+1. FabricSkyboxes
+2. PurpurClient
+3. Concurrent Chunk Management Engine
 
 ### The update speed of different platforms is different. The fastest update platform is adopted here.
 ### 不同平台的更新速度不同，这里采用最快更新的平台.
