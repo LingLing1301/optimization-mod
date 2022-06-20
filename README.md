@@ -51,6 +51,7 @@
 43. Visual Overhaul
 44. ServerCore
 45. CIT Resewn
+46. In-Game Account Switcher
 
 #### **Modrinth Mod:**
 1. FabricSkyboxes
