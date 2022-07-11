@@ -52,6 +52,7 @@
 44. ServerCore
 45. CIT Resewn
 46. In-Game Account Switcher
+47. FastChest
 
 #### **Modrinth Mod:**
 1. FabricSkyboxes
